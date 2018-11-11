@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.6.6",
+  "package": "github.vankka.achievementadapter.mixin",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": ["MixinStatisticsManagerServer"]
+}
