@@ -1,6 +1,6 @@
 {
-  "required": true,
-  "minVersion": "0.6.6",
+  "required": false,
+  "minVersion": "0.5.17",
   "package": "github.vankka.achievementadapter.mixin",
   "target": "@env(DEFAULT)",
   "compatibilityLevel": "JAVA_8",
